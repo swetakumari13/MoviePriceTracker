@@ -26,3 +26,8 @@
 - Web API exposed by the application provides no authentication or authorization.
 
 - This application is tested on `Chrome (v74) 64-bit` which supports V8 engine. React.NET for MVC is used with this application which is configured to use `JavaScriptEngineSwitcher.V8` as default engine factory.
+
+
+### Screenshot
+
+![screenshot](img/screenshot.png)
